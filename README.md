@@ -1,6 +1,3 @@
-# The-Resilient-Microservice-API-To-Do-App-
-
-markdown
 # The Resilient Microservice API - To-Do App
 
 A robust and scalable microservice-based Todo API built with Python, containerized with Docker, and deployed on Kubernetes with infrastructure-as-code.
